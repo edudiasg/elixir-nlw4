@@ -1,5 +1,7 @@
 # Elixir API example: Rocketpay
 
+An Elixir API with postgres database using migrations, plus validations with pipelines.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
