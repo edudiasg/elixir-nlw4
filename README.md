@@ -1,4 +1,4 @@
-# Rocketpay
+# Elixir API example: Rocketpay
 
 To start your Phoenix server:
 
